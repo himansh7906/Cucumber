@@ -10,3 +10,5 @@ my pending commits
 new feature code added in my feature branch
 and ready to merge with master
 
+------->
+master code further improved
