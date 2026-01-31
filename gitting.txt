@@ -1,6 +1,12 @@
 master changes and move ahead after several commits
 
+
 ---->
 Bug fix1 code deployed and merged to master
 my friend also working on same file and he did commit and i forgot for 2 days
 my pending commits
+
+------> feature
+new feature code added in my feature branch
+and ready to merge with master
+
