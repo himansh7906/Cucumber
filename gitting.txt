@@ -1,1 +1,5 @@
 master changes and move ahead after several commits
+
+------> feature
+new feature code added in my feature branch
+and ready to merge with master
