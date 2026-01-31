@@ -1,1 +1,4 @@
 master changes and move ahead after several commits
+
+---->
+Bug fix1 code deployed and merged to master
